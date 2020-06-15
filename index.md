@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+# Profir-Petru Pârțachi's Homepage
+
+I am a PhD Student at University College London working with Dr Earl T. Barr, http://earlbarr.com/, on improving project health by applying Machine Learning to problems from Software Engineering. Some of my projects are listed on this page.
+
 # Projects
 
 ## Projects part of my Doctoral work under the supervision of [Dr. Earl T. Barr](http://earlbarr.com/).
