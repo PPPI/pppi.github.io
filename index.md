@@ -13,6 +13,6 @@ layout: default
 
 # Publications
 
-1. Partachi, P.-P., Treude, C., Dash, S. K., & Barr, E. T., POSIT: Simultaneously Tagging Natural and Programming Languages. In 42nd International Conference on Software Engineering (ICSE ’20). Seoul, Republic of Korea: ACM., May 2020. [GitHub Link](https://github.com/PPPI/POSIT)
+1. Partachi, P.-P., Treude, C., Dash, S. K., & Barr, E. T., POSIT: Simultaneously Tagging Natural and Programming Languages. In 42nd International Conference on Software Engineering (ICSE ’20). Seoul, Republic of Korea: ACM., May 2020. [Project Page](https://pppi.github.io/POSIT)
 
 1. Partachi, P.-P., Dash, S. K., Allamanis, M., & Barr, E. T., Flexeme: Untangling Commits Using Lexical Flows. In 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, (ESEC/FSE 2020). Sacramento, California, United States; ACM, November, 2020 [GitHub Link](https://github.com/PPPI/Flexeme)
