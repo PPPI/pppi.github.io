@@ -6,8 +6,8 @@ layout: default
 I am a PhD Student at University College London working with [Dr Earl T. Barr](http://earlbarr.com/) on improving project health by applying Machine Learning to problems from Software Engineering. Some of my projects are listed on this page. 
 
 
-[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Linkedin" style="width:64px;height:64px"/>](https://www.linkedin.com/in/pp-partachi/) 
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width:64px;height:64px"/>](https://github.com/PPPI) 
+[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Linkedin" style="width:64px;"/>](https://www.linkedin.com/in/pp-partachi/) 
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width:64px;height:64px;"/>](https://github.com/PPPI) 
 
 # Projects
 
@@ -18,6 +18,10 @@ I am a PhD Student at University College London working with [Dr Earl T. Barr](h
 1. POSIT: A tool that makes use of a CRF-biLSTM model to segment and tag text that mixes English and code snippets. It was trained on a compination of C code and StackOverflow. [Project Page](https://pppi.github.io/POSIT)
 
 1. Flexeme: A tool that untangles commits into atomic patches using graph kernel similarity and aggomerative clustering. It was validated on an artificial corpus of tangled commits for 9 C# projects. [Project Page](https://pppi.github.io/Flexeme)
+
+## Intership projects
+
+1. Graph-kernel based detection of anomalous events in spatio-temporal data: this project aims to spot anomalous events in a spatio-temporal dataset, where such anomalies are points staying closely together for abnormal lengths of time or dispersing suddenly. This work was done as part of an internship at the National Institute of Informatics in Tokyo, JP, under the careful supervision of [Asoc. Prof. Mahito Sugiyama](https://mahito.info/index_e.html).
 
 # Publications
 
