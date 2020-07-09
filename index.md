@@ -3,7 +3,11 @@ layout: default
 ---
 # Brief Intro
 
-I am a PhD Student at University College London working with [Dr Earl T. Barr](http://earlbarr.com/) on improving project health by applying Machine Learning to problems from Software Engineering. Some of my projects are listed on this page.
+I am a PhD Student at University College London working with [Dr Earl T. Barr](http://earlbarr.com/) on improving project health by applying Machine Learning to problems from Software Engineering. Some of my projects are listed on this page. 
+
+
+[<img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" alt="Linkedin" style="width:64px;height:64px"/>](https://www.linkedin.com/in/pp-partachi/) 
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width:64px;height:64px"/>](https://github.com/PPPI) 
 
 # Projects
 
