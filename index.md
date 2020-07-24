@@ -7,7 +7,9 @@ I am a PhD Student at University College London working with [Dr Earl T. Barr](h
 
 
 [<img src="https://1000logos.net/wp-content/uploads/2017/03/LinkedIn-Logo-500x500.png" alt="LinkedIn" style="width:64px;height:64px;"/>](https://www.linkedin.com/in/pp-partachi/) 
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width:64px;height:64px;"/>](https://github.com/PPPI) 
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width:64px;height:64px;"/>](https://github.com/PPPI)
+
+My CV can be found [here.](https://github.com/PPPI/pppi.github.io/raw/master/partachipp_cv.pdf)
 
 # Projects
 
