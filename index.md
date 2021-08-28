@@ -31,3 +31,5 @@ My CV can be found [here.](https://github.com/PPPI/pppi.github.io/raw/master/par
 
 1. Partachi, P.-P., Dash, S. K., Allamanis, M., & Barr, E. T., Flexeme: Untangling Commits Using Lexical Flows. In 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, (ESEC/FSE 2020). Sacramento, California, United States; ACM, November, 2020 [Project Page](https://pppi.github.io/Flexeme)
 
+1.  Partachi, Profir-Petru; (2020) Improving Software Project Health Using Machine Learning. Doctoral thesis (Ph.D), UCL (University College London). [UCL Discovery](https://discovery.ucl.ac.uk/id/eprint/10116742/)
+
