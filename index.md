@@ -3,7 +3,7 @@ layout: default
 ---
 # Brief Intro
 
-Currently a freelance researcher with a keen interest on Machine Learning appraoches to Software Engineering. My interest lie in structured approaches to modeling source code, program synthesis, understanding defect prediction, and the testing oracle problem. I got my PhD from University College London where I worked under the supervision of [Dr Earl T. Barr](http://earlbarr.com/) on improving project health by applying Machine Learning to problems from Software Engineering. Some of my projects are listed on this page. 
+Currently a freelance researcher with a keen interest on Machine Learning appraoches to Software Engineering. My interests lie in structured approaches to modeling source code, program synthesis, understanding defect prediction, and the testing oracle problem. I got my PhD from University College London where I worked under the supervision of [Dr Earl T. Barr](http://earlbarr.com/) on improving project health by applying Machine Learning to problems from Software Engineering. Some of my projects are listed on this page. 
 
 
 [<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.clipartmax.com%2Fpng%2Fmiddle%2F62-624588_linkedin-help-linkedin-logo-2018-png.png&f=1&nofb=1" alt="LinkedIn" style="width:64px;height:64px;"/>](https://www.linkedin.com/in/pp-partachi/) 
