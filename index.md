@@ -22,7 +22,7 @@ My CV can be found [here.](https://github.com/PPPI/pppi.github.io/raw/master/par
 
 #### Projects part of my Doctoral work under the supervision of [Prof. Earl T. Barr](http://earlbarr.com/).
 
-1. Aide-memoire: A tool to link issues and pull-requests in an online fashion by predicting which issues (PRs) relate to other PRs(issues). It makes use of a Mondrian Forest model that should be trained on a project before it can make predictions. It is composed of a backend ([GitHub Link](https://github.com/PPPI/a-m)) and a Chrome plug-in to interface with the backend ([GitHub Link](https://github.com/PPPI/tlinker-chrome))
+1. Aide-memoire: A tool to link issues and pull-requests in an online fashion by predicting which issues (PRs) relate to other PRs (issues). It makes use of a Mondrian Forest model that should be trained on a project before it can make predictions. It is composed of a backend ([GitHub Link](https://github.com/PPPI/a-m)) and a Chrome plug-in to interface with the backend ([GitHub Link](https://github.com/PPPI/tlinker-chrome))
 
 1. POSIT: A tool that makes use of a CRF-biLSTM model to segment and tag text that mixes English and code snippets. It was trained on a combination of C code and StackOverflow. [Project Page](https://www.partachi.com/POSIT)
 
