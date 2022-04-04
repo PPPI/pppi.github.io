@@ -20,7 +20,7 @@ My CV can be found [here.](https://github.com/PPPI/pppi.github.io/raw/master/par
 
 # Projects
 
-## Projects part of my Doctoral work under the supervision of [Dr. Earl T. Barr](http://earlbarr.com/).
+#### Projects part of my Doctoral work under the supervision of [Prof. Earl T. Barr](http://earlbarr.com/).
 
 1. Aide-memoire: A tool to link issues and pull-requests in an online fashion by predicting which issues(PRs) relate to other PRs(issues). It makes use of a Mondrian Forest model that should be trained on a project before it can make predictions. It is composed of a backend([GitHub Link](https://github.com/PPPI/a-m)) and a Chrome plug-in to interface with the backend([GitHub Link](https://github.com/PPPI/tlinker-chrome))
 
