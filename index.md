@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+# Overview
 ## Bibliographic Profiles
 
 [<img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="orcID" style="width:64px;height:64px;"/>](https://orcid.org/0000-0003-4940-6864)
@@ -40,3 +41,50 @@ My CV can be found [here.](https://github.com/PPPI/pppi.github.io/raw/master/par
 
 1.  Partachi, Profir-Petru; (2020) Improving Software Project Health Using Machine Learning. Doctoral thesis (Ph.D), UCL (University College London). [UCL Discovery](https://discovery.ucl.ac.uk/id/eprint/10116742/)/[LaTeX Repo](https://github.com/PPPI/PhDThesis)
 
+## Education
+
++ _September 2016 – December 2020_, **PhD in Computer Science**, Centre for Research on Evolution, Search and Testing, University College London;
+  - PhD Thesis: "Improving Software Project Health Using Machine Learning"
+  - Supervised by Prof. Earl T. Barr (e.barr@ucl.ac.uk)
++ _September 2013 – July 2016_, **BA in Computer Science**, King's College, University of Cambridge;
+  - BA Thesis: "Deck building in Hearthstone Using a Genetic Algorithm."
+
+## Teaching Experience
+
++ COMPM203 Verification and Validation; January 2020 – July 2020
+  - Leading problem based workshops, assisting exam setting, and exam marking
++ COMP103P Applied Software Development; January 2018 – April 2018
+  - Laboratory Supervisor and Group Project Supervisor
++ COMPM203 Verification and Validation; January 2018 – April 2018
+  - Coursework writing and marking
++ COMP213P Systems Engineering; October 2017 – April 2018
+  - Group Project Supervisor
+
+## Reviews
+
+### Conferences
+
++ Program Committee member for the Research Track at SANER 2022
++ Sub-reviewing for ISSTA 2021
++ Program Committee member for the Mining Challenge at MSR 2021
++ Sub-reviewing for SANER 2021
++ Sub-reviewing for ICSE 2021
++ Sub-reviewing Registered Studies for ICSME 2020
++ Sub-reviewing for ASE 2020
++ Sub-reviewing for MSR 2020
++ Sub-reviewing for FSE 2019
++ Sub-reviewing for ISSTA 2019
++ Sub-reviewing for ASE 2018
++ Sub-reviewing for ECOOP 2018
++ Sub-reviewing for ISSTA 2018
++ Sub-reviewing for MSR 2017
+
+### Journals
+
++ Reviewing for TOSEM 2022
++ Reviewing for JSS 2022
++ Reviewing for JSS 2021
++ Reviewing for EMSE 2021
++ Reviewing for MTAP 2020
++ Sub-reviewing for EAAI 2020
++ Sub-reviewing for TSE 2017
