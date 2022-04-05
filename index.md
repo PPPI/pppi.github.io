@@ -13,11 +13,10 @@ layout: default
 <details>
 <summary><b>Personal</b></summary>
 
-E-mail: me[at]partachi.com
+E-mail: me `at` partachi.com
 
-[<img src="./logos/linkedin.png" alt="LinkedIn" style="width:64px;height:64px;"/>](https://www.linkedin.com/in/pp-partachi/) 
+[<img src="./logos/linkedin.png" alt="LinkedIn" style="width:64px;height:64px;"/>](https://www.linkedin.com/in/pp-partachi/)
 [<img src="./logos/GitHub.png" alt="GitHub" style="width:64px;height:64px;"/>](https://github.com/PPPI)
-
 </details>
 
 ## Curriculum Vitae
