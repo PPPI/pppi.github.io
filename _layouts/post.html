@@ -18,11 +18,15 @@
       <header>
         <h3><a href="{{ "/" | absolute_url }}">🔝Return to Homepage</a></h3>
 
-        <p><a href="/"><strong>Overview</strong></a></p>
+        {% if page.post-logo %}
+          <img src="{{page.post-logo | relative_url}}" alt="Logo" />
+        {% endif %}
 
         {% if page.post-desc %}
           <p>{{ page.post-desc }}</p>
         {% endif %}
+
+        <p><a href="/"><strong>Overview</strong></a></p>
 
         <p><a href="/photos.html"><strong>Photography</strong></a></p>
       </header>
