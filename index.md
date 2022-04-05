@@ -35,7 +35,7 @@ My CV can be found [here.](./partachipp_cv.pdf)
 
 + _September 2016 – December 2020_, **PhD in Computer Science**, Centre for Research on Evolution, Search and Testing, University College London;
   - PhD Thesis: "Improving Software Project Health Using Machine Learning"
-  - Supervised by [Prof. Earl T. Barr](http://earlbarr.com/)
+  - Supervised by [Prof. Earl T. Barr](https://earlbarr.com/)
 + _September 2013 – July 2016_, **BA in Computer Science**, King's College, University of Cambridge;
   - BA Thesis: "Deck building in Hearthstone Using a Genetic Algorithm."
 
