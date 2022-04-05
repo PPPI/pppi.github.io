@@ -11,9 +11,7 @@ layout: default
 ## Contact
 
 <details>
-<summary><b>
-Personal
-<b></summary>
+<summary><b>Personal</b></summary>
 
 E-mail: me[at]partachi.com
 
