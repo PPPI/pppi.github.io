@@ -20,6 +20,10 @@
 
         <p><a href="/"><strong>Overview</strong></a></p>
 
+        {% if site.post-desc %}
+          <p>{{ site.post-desc }}</p>
+        {% endif %}
+
         <p><a href="/photos.html"><strong>Photography</strong></a></p>
       </header>
       <section>

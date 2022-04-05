@@ -1,11 +1,10 @@
 ---
 layout: post
 permalink: /photos.html
+post-desc: While not as active anymore, I used to take landscape photographs. Some of these can be seen on this page. Alternatively, my, now inactive, flickr page is <a href="https://flickr.com/photos/ppp_photography/">here</a>.
 ---
 
 # Photography
-
-While not as active anymore, I used to take landscape photographs. Some of these can be seen on this page. Alternatively, my, now inactive, flickr page is [here](https://flickr.com/photos/ppp_photography/).
 
 ## A Small Selection of Photos
 
