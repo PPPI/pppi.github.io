@@ -42,7 +42,7 @@ My CV can be found [here.](./partachipp_cv.pdf)
 <summary><b>Projects done as part of my Doctoral work</b></summary>
 
 <ol>
-  <li> Aide-memoire: A tool to link issues and pull-requests in an online fashion by predicting which issues (PRs) relate to other PRs (issues). It makes use of a Mondrian Forest model that should be trained on a project before it can make predictions. It is composed of a backend (<a href="https://github.com/PPPI/a-m">GitHub Link</a>) and a Chrome plug-in tointerface with the backend (<a href="https://github.com/PPPI/tlinker-chrome">GitHub Link</a>)</li>
+  <li> Aide-memoire: A tool to link issues and pull-requests in an online fashion by predicting which issues (PRs) relate to other PRs (issues). It makes use of a Mondrian Forest model that should be trained on a project before it can make predictions. It is composed of a backend (<a href="https://github.com/PPPI/a-m">GitHub Link</a>) and a Chrome plug-in tointerface with the backend (<a href="https://github.com/PPPI/am-chrome">GitHub Link</a>)</li>
   <li> POSIT: A tool that makes use of a CRF-biLSTM model to segment and tag text that mixes English and code snippets. It was trained on a combination of C code and StackOverflow. <a href="https://www.partachi.com/POSIT">Project Page</a></li>
   <li> Flexeme: A tool that untangles commits into atomic patches using graph kernel similarity and agglomerative clustering. It was validated on an artificial corpus of tangled commits for 9 C# projects. <a href="https://www.partachi.com/Flexeme">Project Page</a></li>
 </ol>
