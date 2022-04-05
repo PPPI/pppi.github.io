@@ -10,36 +10,28 @@ layout: default
 
 ## Contact
 
-### Personal
-me[at]partachi.com
+<details>
+<summary><b>
+Personal
+<b></summary>
+
+E-mail: me[at]partachi.com
 
 [<img src="./logos/linkedin.png" alt="LinkedIn" style="width:64px;height:64px;"/>](https://www.linkedin.com/in/pp-partachi/) 
 [<img src="./logos/GitHub.png" alt="GitHub" style="width:64px;height:64px;"/>](https://github.com/PPPI)
 
+</details>
+
 ## Curriculum Vitae
 My CV can be found [here.](./partachipp_cv.pdf)
 
-## Projects
+# Publications
 
-### Projects done as part of my Doctoral work
+1. Partachi, P.-P., [Treude, C.](https://ctreude.ca), [Dash, S. K.](https://santanu.uk/), & [Barr, E. T.](https://earlbarr.com/), [**POSIT: Simultaneously Tagging Natural and Programming Languages**](./papers/posit.pdf). In 42nd International Conference on Software Engineering (ICSE ’20). Seoul, Republic of Korea: ACM., May 2020. [Project Page](https://www.partachi.com/POSIT); [Bib](./bibs/posit.bib); [DOI](https://doi.org/10.1145/3377811.3380440); [PDF](./papers/posit.pdf)
 
-1. Aide-memoire: A tool to link issues and pull-requests in an online fashion by predicting which issues (PRs) relate to other PRs (issues). It makes use of a Mondrian Forest model that should be trained on a project before it can make predictions. It is composed of a backend ([GitHub Link](https://github.com/PPPI/a-m)) and a Chrome plug-in to interface with the backend ([GitHub Link](https://github.com/PPPI/tlinker-chrome))
+1. Partachi, P.-P., [Dash, S. K.](https://santanu.uk/), [Allamanis, M.](https://miltos.allamanis.com/), & [Barr, E. T.](https://earlbarr.com/), [**Flexeme: Untangling Commits Using Lexical Flows**](./papers/untangle.pdf). In 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, (ESEC/FSE 2020). Sacramento, California, United States; ACM, November, 2020 [Project Page](https://www.partachi.com/Flexeme); [Bib](./bibs/flexeme.bib); [DOI](https://doi.org/10.1145/3368089.3409693); [PDF](./papers/untangle.pdf)
 
-1. POSIT: A tool that makes use of a CRF-biLSTM model to segment and tag text that mixes English and code snippets. It was trained on a combination of C code and StackOverflow. [Project Page](https://www.partachi.com/POSIT)
-
-1. Flexeme: A tool that untangles commits into atomic patches using graph kernel similarity and agglomerative clustering. It was validated on an artificial corpus of tangled commits for 9 C# projects. [Project Page](https://www.partachi.com/Flexeme)
-
-### Internship projects
-
-1. Graph-kernel based detection of anomalous events in spatio-temporal data: anomalies are points are those that stay closely together for abnormal lengths of time or disperse suddenly. This work was done as part of an internship at the National Institute of Informatics in Tokyo, JP, under the careful supervision of [Asoc. Prof. Mahito Sugiyama](https://mahito.info/index_e.html).
-
-## Publications
-
-1. Partachi, P.-P., Treude, C., Dash, S. K., & Barr, E. T., POSIT: Simultaneously Tagging Natural and Programming Languages. In 42nd International Conference on Software Engineering (ICSE ’20). Seoul, Republic of Korea: ACM., May 2020. [Project Page](https://www.partachi.com/POSIT); [Bib](./bibs/posit.bib); [DOI](https://doi.org/10.1145/3377811.3380440); [PDF](./papers/posit.pdf)
-
-1. Partachi, P.-P., Dash, S. K., Allamanis, M., & Barr, E. T., Flexeme: Untangling Commits Using Lexical Flows. In 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, (ESEC/FSE 2020). Sacramento, California, United States; ACM, November, 2020 [Project Page](https://www.partachi.com/Flexeme); [Bib](./bibs/flexeme.bib); [DOI](https://doi.org/10.1145/3368089.3409693); [PDF](./papers/untangle.pdf)
-
-1.  Partachi, Profir-Petru; (2020) Improving Software Project Health Using Machine Learning. Doctoral thesis (Ph.D), UCL (University College London). [UCL Discovery](https://discovery.ucl.ac.uk/id/eprint/10116742/); [LaTeX Repo](https://github.com/PPPI/PhDThesis); [Bib](./bibs/thesis.bib) [URI](https://discovery.ucl.ac.uk/id/eprint/10116742); [PDF](./papers/thesis.pdf)
+1.  Partachi, Profir-Petru; (2020) [**Improving Software Project Health Using Machine Learning**](./papers/thesis.pdf). Doctoral thesis (Ph.D), UCL (University College London). [UCL Discovery](https://discovery.ucl.ac.uk/id/eprint/10116742/); [LaTeX Repo](https://github.com/PPPI/PhDThesis); [Bib](./bibs/thesis.bib) [URI](https://discovery.ucl.ac.uk/id/eprint/10116742); [PDF](./papers/thesis.pdf)
 
 ## Education
 
@@ -49,9 +41,27 @@ My CV can be found [here.](./partachipp_cv.pdf)
 + _September 2013 – July 2016_, **BA in Computer Science**, King's College, University of Cambridge;
   - BA Thesis: "Deck building in Hearthstone Using a Genetic Algorithm."
 
-## Teaching Experience
+## Projects
+<details>
+<summary><b>Projects done as part of my Doctoral work</b></summary>
 
-### TAing during the Doctoral Studies
+1. Aide-memoire: A tool to link issues and pull-requests in an online fashion by predicting which issues (PRs) relate to other PRs (issues). It makes use of a Mondrian Forest model that should be trained on a project before it can make predictions. It is composed of a backend ([GitHub Link](https://github.com/PPPI/a-m)) and a Chrome plug-in to interface with the backend ([GitHub Link](https://github.com/PPPI/tlinker-chrome))
+
+1. POSIT: A tool that makes use of a CRF-biLSTM model to segment and tag text that mixes English and code snippets. It was trained on a combination of C code and StackOverflow. [Project Page](https://www.partachi.com/POSIT)
+
+1. Flexeme: A tool that untangles commits into atomic patches using graph kernel similarity and agglomerative clustering. It was validated on an artificial corpus of tangled commits for 9 C# projects. [Project Page](https://www.partachi.com/Flexeme)
+
+</details>
+<details>
+<summary><b>Internship projects</b></summary>
+
+1. Graph-kernel based detection of anomalous events in spatio-temporal data: anomalies are points are those that stay closely together for abnormal lengths of time or disperse suddenly. This work was done as part of an internship at the National Institute of Informatics in Tokyo, JP, under the careful supervision of [Asoc. Prof. Mahito Sugiyama](https://mahito.info/index_e.html).
+</details>
+
+## Teaching Experience
+<details>
+<summary><b>TAing during the Doctoral Studies</b></summary>
+
 + COMPM203 Verification and Validation; January 2020 – July 2020
   - Leading problem based workshops, assisting exam setting, and exam marking
 + COMP103P Applied Software Development; January 2018 – April 2018
@@ -61,9 +71,12 @@ My CV can be found [here.](./partachipp_cv.pdf)
 + COMP213P Systems Engineering; October 2017 – April 2018
   - Group Project Supervisor
 
+</details>
+
 ## Reviews
 
-### Conferences
+<details>
+<summary><b>Conferences</b></summary>
 
 + Program Committee member for the Research Track at SANER 2022
 + Sub-reviewing for ISSTA 2021
@@ -80,7 +93,9 @@ My CV can be found [here.](./partachipp_cv.pdf)
 + Sub-reviewing for ISSTA 2018
 + Sub-reviewing for MSR 2017
 
-### Journals
+</details>
+<details>
+<summary><b>Journals</b></summary>
 
 + Reviewing for TOSEM 2022
 + Reviewing for JSS 2022
@@ -89,3 +104,5 @@ My CV can be found [here.](./partachipp_cv.pdf)
 + Reviewing for MTAP 2020
 + Sub-reviewing for EAAI 2020
 + Sub-reviewing for TSE 2017
+
+</details>
