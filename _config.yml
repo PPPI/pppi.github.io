@@ -1,5 +1,8 @@
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
 markdown: GFM
-title: Profir-Petru Pârțachi's Homepage
+show_downloads: false
+title: Profir-Petru Pârțachi
 logo: /profile_pic.jpg
 description: Currently a freelance researcher with a keen interest on Machine Learning approaches to Software Engineering. My interests lie in structured approaches to modeling source code, program synthesis, understanding defect prediction, and the testing oracle problem. I received my PhD from <a href="http://ucl.ac.uk/">University College London (UCL)</a>, where I worked under the supervision of <a href="http://earlbarr.com/">Prof. Earl T. Barr</a> on improving project health by applying Machine Learning to problems from Software Engineering. Some of my projects are listed on this page. 
+plugins:
+- jekyll-remote-theme

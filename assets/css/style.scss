@@ -1,0 +1,19 @@
+---
+---
+
+@import "{{ site.theme }}";
+h1 h2 h3 h4 p b {
+    color: beige;
+}
+
+a {
+    color: #2c94ff;
+}
+
+a :hover {
+    color: #1b4b7c;
+}
+
+body {
+    background-color: #1e1823;
+}
