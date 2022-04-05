@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Overview
+# Homepage
 ## Bibliographic Profiles
 
 [<img src="./logos/orcid.svg" alt="orcID" style="width:64px;height:64px;"/>](https://orcid.org/0000-0003-4940-6864)
@@ -11,7 +11,7 @@ layout: default
 ## Contact
 
 <details>
-<summary><b>Personal</b></summary>
+<summary><b style="font-size:1.17em;">Personal</b></summary>
 <p>E-mail: me[at]partachi.com
 <br>
 <a href="https://www.linkedin.com/in/pp-partachi/"><img src="./logos/linkedin.png" alt="LinkedIn" style="width:64px;height:64px;"/></a>
@@ -21,7 +21,7 @@ layout: default
 ## Curriculum Vitae
 My CV can be found [here.](./partachipp_cv.pdf)
 
-# Publications
+## Publications
 
 1. Partachi, P.-P., [Treude, C.](https://ctreude.ca), [Dash, S. K.](https://santanu.uk/), & [Barr, E. T.](https://earlbarr.com/), [**POSIT: Simultaneously Tagging Natural and Programming Languages**](./papers/posit.pdf). In 42nd International Conference on Software Engineering (ICSE ’20). Seoul, Republic of Korea: ACM., May 2020. [Project Page](https://www.partachi.com/POSIT); [Bib](./bibs/posit.bib); [DOI](https://doi.org/10.1145/3377811.3380440); [PDF](./papers/posit.pdf)
 
@@ -39,7 +39,7 @@ My CV can be found [here.](./partachipp_cv.pdf)
 
 ## Projects
 <details>
-<summary><b>Projects done as part of my Doctoral work</b></summary>
+<summary><b style="font-size:1.17em;">Projects done as part of my Doctoral work</b></summary>
 
 <ol>
   <li> Aide-memoire: A tool to link issues and pull-requests in an online fashion by predicting which issues (PRs) relate to other PRs (issues). It makes use of a Mondrian Forest model that should be trained on a project before it can make predictions. It is composed of a backend (<a href="https://github.com/PPPI/a-m">GitHub Link</a>) and a Chrome plug-in tointerface with the backend (<a href="https://github.com/PPPI/am-chrome">GitHub Link</a>)</li>
@@ -49,7 +49,7 @@ My CV can be found [here.](./partachipp_cv.pdf)
 
 </details>
 <details>
-<summary><b>Internship projects</b></summary>
+<summary><b style="font-size:1.17em;">Internship projects</b></summary>
 
 <ol>
   <li> Graph-kernel based detection of anomalous events in spatio-temporal data: anomalies are points are those that stay closely together for abnormal lengths of time or disperse suddenly. This work was done as part of an internship at the National Institute of Informatics in Tokyo, JP, under the careful supervision of <a href="https://mahito.info/index_e.html">Asoc. Prof. Mahito Sugiyama</a>.</li>
@@ -58,7 +58,7 @@ My CV can be found [here.](./partachipp_cv.pdf)
 
 ## Teaching Experience
 <details>
-<summary><b>TAing during the Doctoral Studies</b></summary>
+<summary><b style="font-size:1.17em;">TAing during the Doctoral Studies</b></summary>
 
 <ul>
   <li>COMPM203 Verification and Validation; January 2020 – July 2020
@@ -88,7 +88,7 @@ My CV can be found [here.](./partachipp_cv.pdf)
 ## Reviews
 
 <details>
-<summary><b>Conferences</b></summary>
+<summary><b style="font-size:1.17em;">Conferences</b></summary>
 
 <ul>
   <li>Sub-reviewing for ISSTA 2021</li>
@@ -108,7 +108,7 @@ My CV can be found [here.](./partachipp_cv.pdf)
 
 </details>
 <details>
-<summary><b>Journals</b></summary>
+<summary><b style="font-size:1.17em;">Journals</b></summary>
 
 <ul>
   <li>Reviewing for TOSEM 2022</li>
