@@ -4,20 +4,20 @@ layout: default
 # Overview
 ## Bibliographic Profiles
 
-[<img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" alt="orcID" style="width:64px;height:64px;"/>](https://orcid.org/0000-0003-4940-6864)
-[<img src="https://img.icons8.com/color/2x/google-scholar--v3.png" alt="Google Scholar" style="width:64px;height:64px;"/>](https://scholar.google.com/citations?user=e-q46I0AAAAJ)
-[<img src="https://cdn.icon-icons.com/icons2/2389/PNG/512/dblp_logo_icon_145352.png" alt="dblp" style="width:64px;height:64px;"/>](https://dblp.org/pid/276/3593.html)
+[<img src="./logos/orcid.svg" alt="orcID" style="width:64px;height:64px;"/>](https://orcid.org/0000-0003-4940-6864)
+[<img src="./logos/google-scholar.png" alt="Google Scholar" style="width:64px;height:64px;"/>](https://scholar.google.com/citations?user=e-q46I0AAAAJ)
+[<img src="./logos/dblp.png" alt="dblp" style="width:64px;height:64px;"/>](https://dblp.org/pid/276/3593.html)
 
 ## Contact
 
 ### Personal
 me[at]partachi.com
 
-[<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.clipartmax.com%2Fpng%2Fmiddle%2F62-624588_linkedin-help-linkedin-logo-2018-png.png&f=1&nofb=1" alt="LinkedIn" style="width:64px;height:64px;"/>](https://www.linkedin.com/in/pp-partachi/) 
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="width:64px;height:64px;"/>](https://github.com/PPPI)
+[<img src="./logos/linkedin.png" alt="LinkedIn" style="width:64px;height:64px;"/>](https://www.linkedin.com/in/pp-partachi/) 
+[<img src="./logos/GitHub.png" alt="GitHub" style="width:64px;height:64px;"/>](https://github.com/PPPI)
 
 ## Curriculum Vitae
-My CV can be found [here.](https://github.com/PPPI/pppi.github.io/raw/master/partachipp_cv.pdf)
+My CV can be found [here.](./partachipp_cv.pdf)
 
 ## Projects
 
