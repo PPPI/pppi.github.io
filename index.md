@@ -29,7 +29,7 @@ My CV can be found [here.](./partachipp_cv.pdf)
 
 1. Partachi, P.-P., [Dash, S. K.](https://santanu.uk/), [Allamanis, M.](https://miltos.allamanis.com/), & [Barr, E. T.](https://earlbarr.com/), [**Flexeme: Untangling Commits Using Lexical Flows**](./papers/untangle.pdf). In 28th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering, (ESEC/FSE 2020). Sacramento, California, United States; ACM, November, 2020 [Project Page](https://www.partachi.com/Flexeme); [Bib](./bibs/flexeme.bib); [DOI](https://doi.org/10.1145/3368089.3409693); [PDF](./papers/untangle.pdf)
 
-1.  Partachi, Profir-Petru; (2020) [**Improving Software Project Health Using Machine Learning**](./papers/thesis.pdf). Doctoral thesis (Ph.D), UCL (University College London). [UCL Discovery](https://discovery.ucl.ac.uk/id/eprint/10116742/); [LaTeX Repo](https://github.com/PPPI/PhDThesis); [Bib](./bibs/thesis.bib) [URI](https://discovery.ucl.ac.uk/id/eprint/10116742); [PDF](./papers/thesis.pdf)
+1.  Partachi, Profir-Petru; (2020) [**Improving Software Project Health Using Machine Learning**](./papers/thesis.pdf). Doctoral thesis (Ph.D), UCL (University College London). [UCL Discovery](https://discovery.ucl.ac.uk/id/eprint/10116742/); [LaTeX Repo](https://github.com/PPPI/PhDThesis); [Bib](./bibs/thesis.bib); [URI](https://discovery.ucl.ac.uk/id/eprint/10116742); [PDF](./papers/thesis.pdf)
 
 ## Education
 
