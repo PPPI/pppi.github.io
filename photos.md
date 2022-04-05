@@ -9,7 +9,7 @@ post-desc: While not as active anymore, I used to take landscape photographs. So
 
 ## A Small Selection of Photos
 
-<details>
+<details open>
 <summary><b style="font-size:1.17em;">I [am]sterdam</b></summary>
 <img src="https://live.staticflickr.com/7707/16525223223_6b9a9abf4a_h.jpg" alt="I [am]sterdam" style="width:640px;"/>
 </details>
