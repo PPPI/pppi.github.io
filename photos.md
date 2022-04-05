@@ -25,7 +25,7 @@ post-desc: While not as active anymore, I used to take landscape photographs. So
 </details>
 
 <details>
-<summary><b style="font-size:1.17em;">"King's College Chappel</b></summary>
+<summary><b style="font-size:1.17em;">King's College Chappel</b></summary>
 <img src="https://live.staticflickr.com/5526/12141846096_f499c519cf_h.jpg" alt="King's Chappel" style="width:640px;"/>
 </details>
 
@@ -35,13 +35,13 @@ post-desc: While not as active anymore, I used to take landscape photographs. So
 </details>
 
 <details>
-<summary><b style="font-size:1.17em;">Riverside (Dnister)</b></summary>
+<summary><b style="font-size:1.17em;">Riverside (Nistru)</b></summary>
 <img src="https://live.staticflickr.com/3757/9436975202_1bb9bef0f5_c.jpg" alt="Riverside" style="width:640px;"/>
 </details>
 
 <details>
-<summary><b style="font-size:1.17em;">Vaclav Square</b></summary>
-<img src="https://live.staticflickr.com/8004/7485560898_5d84f39939_k.jpg" alt="Vaclav Square" style="width:640px;"/>
+<summary><b style="font-size:1.17em;">Václav Square</b></summary>
+<img src="https://live.staticflickr.com/8004/7485560898_5d84f39939_k.jpg" alt="Václav Square" style="width:640px;"/>
 </details>
 
 <details>
