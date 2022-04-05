@@ -13,7 +13,7 @@ layout: default
 <details>
 <summary><b>Personal</b></summary>
 E-mail: me\[at\]partachi.com
-
+</p>
 <a href="https://www.linkedin.com/in/pp-partachi/"><img src="./logos/linkedin.png" alt="LinkedIn" style="width:64px;height:64px;"/></a>
 <a href="https://github.com/PPPI"><img src="./logos/GitHub.png" alt="GitHub" style="width:64px;height:64px;"/></a>
 </details>
@@ -61,19 +61,19 @@ My CV can be found [here.](./partachipp_cv.pdf)
 <summary><b>TAing during the Doctoral Studies</b></summary>
 
 <ul>
-  <li>COMPM203 Verification and Validation; January 2020 – July 2020</br>
+  <li>COMPM203 Verification and Validation; January 2020 – July 2020
     <ul>
       <li>Leading problem based workshops, assisting exam setting, and exam marking</li>
     </ul>
-  <li>COMP103P Applied Software Development; January 2018 – April 2018</br>
+  <li>COMP103P Applied Software Development; January 2018 – April 2018
     <ul>
       <li>Laboratory Supervisor and Group Project Supervisor</li>
     </ul>
-  <li>COMPM203 Verification and Validation; January 2018 – April 2018</br>
+  <li>COMPM203 Verification and Validation; January 2018 – April 2018
     <ul>
       <li>Coursework writing and marking</li>
     </ul>
-  <li>COMP213P Systems Engineering; October 2017 – April 2018</br>
+  <li>COMP213P Systems Engineering; October 2017 – April 2018
     <ul>
       <li>Group Project Supervisor</li>
     </ul>
