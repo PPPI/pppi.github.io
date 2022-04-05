@@ -12,10 +12,10 @@ layout: default
 
 <details>
 <summary><b>Personal</b></summary>
-E-mail: me\[at\]partachi.com
-</p>
+<p>E-mail: me[at]partachi.com
+<br>
 <a href="https://www.linkedin.com/in/pp-partachi/"><img src="./logos/linkedin.png" alt="LinkedIn" style="width:64px;height:64px;"/></a>
-<a href="https://github.com/PPPI"><img src="./logos/GitHub.png" alt="GitHub" style="width:64px;height:64px;"/></a>
+<a href="https://github.com/PPPI"><img src="./logos/GitHub.png" alt="GitHub" style="width:64px;height:64px;"/></a></p>
 </details>
 
 ## Curriculum Vitae
@@ -65,18 +65,22 @@ My CV can be found [here.](./partachipp_cv.pdf)
     <ul>
       <li>Leading problem based workshops, assisting exam setting, and exam marking</li>
     </ul>
+  </li>
   <li>COMP103P Applied Software Development; January 2018 – April 2018
     <ul>
       <li>Laboratory Supervisor and Group Project Supervisor</li>
     </ul>
+  </li>
   <li>COMPM203 Verification and Validation; January 2018 – April 2018
     <ul>
       <li>Coursework writing and marking</li>
     </ul>
+  </li>
   <li>COMP213P Systems Engineering; October 2017 – April 2018
     <ul>
       <li>Group Project Supervisor</li>
     </ul>
+  </li>
 </ul>
 
 </details>
@@ -87,19 +91,19 @@ My CV can be found [here.](./partachipp_cv.pdf)
 <summary><b>Conferences</b></summary>
 
 <ul>
-  <li> Sub-reviewing for ISSTA 2021</li>
-  <li> Program Committee member for the Mining Challenge at MSR 2021</li>
-  <li> Sub-reviewing for SANER 2021</li>
-  <li> Sub-reviewing for ICSE 2021</li>
-  <li> Sub-reviewing Registered Studies for ICSME 2020</li>
-  <li> Sub-reviewing for ASE 2020</li>
-  <li> Sub-reviewing for MSR 2020</li>
-  <li> Sub-reviewing for FSE 2019</li>
-  <li> Sub-reviewing for ISSTA 2019</li>
-  <li> Sub-reviewing for ASE 2018</li>
-  <li> Sub-reviewing for ECOOP 2018</li>
-  <li> Sub-reviewing for ISSTA 2018</li>
-  <li> Sub-reviewing for MSR 2017</li>
+  <li>Sub-reviewing for ISSTA 2021</li>
+  <li>Program Committee member for the Mining Challenge at MSR 2021</li>
+  <li>Sub-reviewing for SANER 2021</li>
+  <li>Sub-reviewing for ICSE 2021</li>
+  <li>Sub-reviewing Registered Studies for ICSME 2020</li>
+  <li>Sub-reviewing for ASE 2020</li>
+  <li>Sub-reviewing for MSR 2020</li>
+  <li>Sub-reviewing for FSE 2019</li>
+  <li>Sub-reviewing for ISSTA 2019</li>
+  <li>Sub-reviewing for ASE 2018</li>
+  <li>Sub-reviewing for ECOOP 2018</li>
+  <li>Sub-reviewing for ISSTA 2018</li>
+  <li>Sub-reviewing for MSR 2017</li>
 </ul>
 
 </details>
@@ -107,13 +111,13 @@ My CV can be found [here.](./partachipp_cv.pdf)
 <summary><b>Journals</b></summary>
 
 <ul>
-  <li> Reviewing for TOSEM 2022</li>
-  <li> Reviewing for JSS 2022</li>
-  <li> Reviewing for JSS 2021</li>
-  <li> Reviewing for EMSE 2021</li>
-  <li> Reviewing for MTAP 2020</li>
-  <li> Sub-reviewing for EAAI 2020</li>
-  <li> Sub-reviewing for TSE 2017</li>
+  <li>Reviewing for TOSEM 2022</li>
+  <li>Reviewing for JSS 2022</li>
+  <li>Reviewing for JSS 2021</li>
+  <li>Reviewing for EMSE 2021</li>
+  <li>Reviewing for MTAP 2020</li>
+  <li>Sub-reviewing for EAAI 2020</li>
+  <li>Sub-reviewing for TSE 2017</li>
 </ul>
 
 </details>
