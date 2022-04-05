@@ -1,5 +1,6 @@
 ---
 layout: default
+background-color: #1e1823
 ---
 # Homepage
 ## Bibliographic Profiles
