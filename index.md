@@ -13,10 +13,10 @@ layout: default
 <details>
 <summary><b>Personal</b></summary>
 E-mail: me\[at\]partachi.com
-</details>
 
-[<img src="./logos/linkedin.png" alt="LinkedIn" style="width:64px;height:64px;"/>](https://www.linkedin.com/in/pp-partachi/)
-[<img src="./logos/GitHub.png" alt="GitHub" style="width:64px;height:64px;"/>](https://github.com/PPPI)
+<a href="https://www.linkedin.com/in/pp-partachi/"><img src="./logos/linkedin.png" alt="LinkedIn" style="width:64px;height:64px;"/></a>
+<a href="https://github.com/PPPI"><img src="./logos/GitHub.png" alt="GitHub" style="width:64px;height:64px;"/></a>
+</details>
 
 ## Curriculum Vitae
 My CV can be found [here.](./partachipp_cv.pdf)
@@ -41,31 +41,43 @@ My CV can be found [here.](./partachipp_cv.pdf)
 <details>
 <summary><b>Projects done as part of my Doctoral work</b></summary>
 
-1. Aide-memoire: A tool to link issues and pull-requests in an online fashion by predicting which issues (PRs) relate to other PRs (issues). It makes use of a Mondrian Forest model that should be trained on a project before it can make predictions. It is composed of a backend ([GitHub Link](https://github.com/PPPI/a-m)) and a Chrome plug-in to interface with the backend ([GitHub Link](https://github.com/PPPI/tlinker-chrome))
-
-1. POSIT: A tool that makes use of a CRF-biLSTM model to segment and tag text that mixes English and code snippets. It was trained on a combination of C code and StackOverflow. [Project Page](https://www.partachi.com/POSIT)
-
-1. Flexeme: A tool that untangles commits into atomic patches using graph kernel similarity and agglomerative clustering. It was validated on an artificial corpus of tangled commits for 9 C# projects. [Project Page](https://www.partachi.com/Flexeme)
+<ol>
+  <li> Aide-memoire: A tool to link issues and pull-requests in an online fashion by predicting which issues (PRs) relate to other PRs (issues). It makes use of a Mondrian Forest model that should be trained on a project before it can make predictions. It is composed of a backend (<a href="https://github.com/PPPI/a-m">GitHub Link</a>) and a Chrome plug-in tointerface with the backend (<a href="https://github.com/PPPI/tlinker-chrome">GitHub Link</a>)</li>
+  <li> POSIT: A tool that makes use of a CRF-biLSTM model to segment and tag text that mixes English and code snippets. It was trained on a combination of C code and StackOverflow. <a href="https://www.partachi.com/POSIT">Project Page</a></li>
+  <li> Flexeme: A tool that untangles commits into atomic patches using graph kernel similarity and agglomerative clustering. It was validated on an artificial corpus of tangled commits for 9 C# projects. <a href="https://www.partachi.com/Flexeme">Project Page</a></li>
+</ol>
 
 </details>
 <details>
 <summary><b>Internship projects</b></summary>
 
-1. Graph-kernel based detection of anomalous events in spatio-temporal data: anomalies are points are those that stay closely together for abnormal lengths of time or disperse suddenly. This work was done as part of an internship at the National Institute of Informatics in Tokyo, JP, under the careful supervision of [Asoc. Prof. Mahito Sugiyama](https://mahito.info/index_e.html).
+<ol>
+  <li> Graph-kernel based detection of anomalous events in spatio-temporal data: anomalies are points are those that stay closely together for abnormal lengths of time or disperse suddenly. This work was done as part of an internship at the National Institute of Informatics in Tokyo, JP, under the careful supervision of <a href="https://mahito.info/index_e.html">Asoc. Prof. Mahito Sugiyama</a>.</li>
+</ol>
 </details>
 
 ## Teaching Experience
 <details>
 <summary><b>TAing during the Doctoral Studies</b></summary>
 
-+ COMPM203 Verification and Validation; January 2020 – July 2020
-  - Leading problem based workshops, assisting exam setting, and exam marking
-+ COMP103P Applied Software Development; January 2018 – April 2018
-  - Laboratory Supervisor and Group Project Supervisor
-+ COMPM203 Verification and Validation; January 2018 – April 2018
-  - Coursework writing and marking
-+ COMP213P Systems Engineering; October 2017 – April 2018
-  - Group Project Supervisor
+<ul>
+  <li>COMPM203 Verification and Validation; January 2020 – July 2020</br>
+    <ul>
+      <li>Leading problem based workshops, assisting exam setting, and exam marking</li>
+    </ul>
+  <li>COMP103P Applied Software Development; January 2018 – April 2018</br>
+    <ul>
+      <li>Laboratory Supervisor and Group Project Supervisor</li>
+    </ul>
+  <li>COMPM203 Verification and Validation; January 2018 – April 2018</br>
+    <ul>
+      <li>Coursework writing and marking</li>
+    </ul>
+  <li>COMP213P Systems Engineering; October 2017 – April 2018</br>
+    <ul>
+      <li>Group Project Supervisor</li>
+    </ul>
+</ul>
 
 </details>
 
@@ -74,31 +86,34 @@ My CV can be found [here.](./partachipp_cv.pdf)
 <details>
 <summary><b>Conferences</b></summary>
 
-+ Program Committee member for the Research Track at SANER 2022
-+ Sub-reviewing for ISSTA 2021
-+ Program Committee member for the Mining Challenge at MSR 2021
-+ Sub-reviewing for SANER 2021
-+ Sub-reviewing for ICSE 2021
-+ Sub-reviewing Registered Studies for ICSME 2020
-+ Sub-reviewing for ASE 2020
-+ Sub-reviewing for MSR 2020
-+ Sub-reviewing for FSE 2019
-+ Sub-reviewing for ISSTA 2019
-+ Sub-reviewing for ASE 2018
-+ Sub-reviewing for ECOOP 2018
-+ Sub-reviewing for ISSTA 2018
-+ Sub-reviewing for MSR 2017
+<ul>
+  <li> Sub-reviewing for ISSTA 2021</li>
+  <li> Program Committee member for the Mining Challenge at MSR 2021</li>
+  <li> Sub-reviewing for SANER 2021</li>
+  <li> Sub-reviewing for ICSE 2021</li>
+  <li> Sub-reviewing Registered Studies for ICSME 2020</li>
+  <li> Sub-reviewing for ASE 2020</li>
+  <li> Sub-reviewing for MSR 2020</li>
+  <li> Sub-reviewing for FSE 2019</li>
+  <li> Sub-reviewing for ISSTA 2019</li>
+  <li> Sub-reviewing for ASE 2018</li>
+  <li> Sub-reviewing for ECOOP 2018</li>
+  <li> Sub-reviewing for ISSTA 2018</li>
+  <li> Sub-reviewing for MSR 2017</li>
+</ul>
 
 </details>
 <details>
 <summary><b>Journals</b></summary>
 
-+ Reviewing for TOSEM 2022
-+ Reviewing for JSS 2022
-+ Reviewing for JSS 2021
-+ Reviewing for EMSE 2021
-+ Reviewing for MTAP 2020
-+ Sub-reviewing for EAAI 2020
-+ Sub-reviewing for TSE 2017
+<ul>
+  <li> Reviewing for TOSEM 2022</li>
+  <li> Reviewing for JSS 2022</li>
+  <li> Reviewing for JSS 2021</li>
+  <li> Reviewing for EMSE 2021</li>
+  <li> Reviewing for MTAP 2020</li>
+  <li> Sub-reviewing for EAAI 2020</li>
+  <li> Sub-reviewing for TSE 2017</li>
+</ul>
 
 </details>
