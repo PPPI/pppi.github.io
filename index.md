@@ -17,8 +17,10 @@ layout: default
 <a href="https://www.linkedin.com/in/pp-partachi/"><img src="./logos/linkedin.png" alt="LinkedIn" style="width:64px;height:64px;"/></a>
 <a href="https://github.com/PPPI"><img src="./logos/GitHub.png" alt="GitHub" style="width:64px;height:64px;"/></a></p>
 </details>
+<br>
 
 ## Curriculum Vitae
+
 My CV can be found [here.](./partachipp_cv.pdf)
 
 ## Publications
@@ -38,6 +40,7 @@ My CV can be found [here.](./partachipp_cv.pdf)
   - BA Thesis: "Deck building in Hearthstone Using a Genetic Algorithm."
 
 ## Projects
+
 <details>
 <summary><b style="font-size:1.17em;">Projects done as part of my Doctoral work</b></summary>
 
@@ -48,6 +51,7 @@ My CV can be found [here.](./partachipp_cv.pdf)
 </ol>
 
 </details>
+<br>
 <details>
 <summary><b style="font-size:1.17em;">Internship projects</b></summary>
 
@@ -55,8 +59,10 @@ My CV can be found [here.](./partachipp_cv.pdf)
   <li> Graph-kernel based detection of anomalous events in spatio-temporal data: anomalies are points are those that stay closely together for abnormal lengths of time or disperse suddenly. This work was done as part of an internship at the National Institute of Informatics in Tokyo, JP, under the careful supervision of <a href="https://mahito.info/index_e.html">Asoc. Prof. Mahito Sugiyama</a>.</li>
 </ol>
 </details>
+<br>
 
 ## Teaching Experience
+
 <details>
 <summary><b style="font-size:1.17em;">TAing during the Doctoral Studies</b></summary>
 
@@ -84,6 +90,7 @@ My CV can be found [here.](./partachipp_cv.pdf)
 </ul>
 
 </details>
+<br>
 
 ## Reviews
 
@@ -107,6 +114,7 @@ My CV can be found [here.](./partachipp_cv.pdf)
 </ul>
 
 </details>
+<br>
 <details>
 <summary><b style="font-size:1.17em;">Journals</b></summary>
 
@@ -121,3 +129,4 @@ My CV can be found [here.](./partachipp_cv.pdf)
 </ul>
 
 </details>
+<br>
