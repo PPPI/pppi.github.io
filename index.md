@@ -15,7 +15,6 @@ layout: default
 <p>E-mail: me[at]partachi.com
 <br>
 <a href="https://www.linkedin.com/in/pp-partachi/"><img src="./logos/linkedin.png" alt="LinkedIn" style="width:64px;height:64px;"/></a>
-<a href="./9fj5vy86.txt">temp</a>
 <a href="https://github.com/PPPI"><img src="./logos/GitHub.png" alt="GitHub" style="width:64px;height:64px;"/></a></p>
 </details>
 <br>
