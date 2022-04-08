@@ -21,7 +21,7 @@ layout: default
 
 ## Curriculum Vitae
 
-My CV can be found [here.](./partachipp_cv.pdf)
+My CV can be found [here.](./cv/partachipp_cv.pdf)
 
 ## Education
 
