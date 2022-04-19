@@ -9,10 +9,14 @@ layout: default
 [<img src="./logos/dblp.png" alt="dblp" style="width:64px;height:64px;"/>](https://dblp.org/pid/276/3593.html)
 
 ## Contact
+<details open>
+<summary><b style="font-size:1.17em;">Work</b></summary>
+<p>E-mail: profir[at]nii[dot]ac[dot]jp</p>
+</details>
 
 <details open>
 <summary><b style="font-size:1.17em;">Personal</b></summary>
-<p>E-mail: me[at]partachi.com
+<p>E-mail: me[at]partachi[dot]com
 <br>
 <a href="https://www.linkedin.com/in/pp-partachi/"><img src="./logos/linkedin.png" alt="LinkedIn" style="width:64px;height:64px;"/></a>
 <a href="https://github.com/PPPI"><img src="./logos/GitHub.png" alt="GitHub" style="width:64px;height:64px;"/></a></p>
