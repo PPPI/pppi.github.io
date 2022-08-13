@@ -95,6 +95,9 @@ My CV can be found [here.](./cv/partachipp_cv.pdf)
 <summary><b style="font-size:1.17em;">Conferences</b></summary>
 
 <ul>
+  <li>Program Committee member for the Research Track at SANER 2023</li>
+  <li>Sub-reviewing for ASE 2022</li>
+  <li>Program Committee member for the Research Track at SANER 2022</li>
   <li>Sub-reviewing for ISSTA 2021</li>
   <li>Program Committee member for the Mining Challenge at MSR 2021</li>
   <li>Sub-reviewing for SANER 2021</li>
