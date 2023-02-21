@@ -95,22 +95,8 @@ My CV can be found [here.](./cv/partachipp_cv.pdf)
 <summary><b style="font-size:1.17em;">Conferences</b></summary>
 
 <ul>
-  <li>Program Committee member for the Research Track at SANER 2023</li>
-  <li>Sub-reviewing for ASE 2022</li>
-  <li>Program Committee member for the Research Track at SANER 2022</li>
-  <li>Sub-reviewing for ISSTA 2021</li>
-  <li>Program Committee member for the Mining Challenge at MSR 2021</li>
-  <li>Sub-reviewing for SANER 2021</li>
-  <li>Sub-reviewing for ICSE 2021</li>
-  <li>Sub-reviewing Registered Studies for ICSME 2020</li>
-  <li>Sub-reviewing for ASE 2020</li>
-  <li>Sub-reviewing for MSR 2020</li>
-  <li>Sub-reviewing for FSE 2019</li>
-  <li>Sub-reviewing for ISSTA 2019</li>
-  <li>Sub-reviewing for ASE 2018</li>
-  <li>Sub-reviewing for ECOOP 2018</li>
-  <li>Sub-reviewing for ISSTA 2018</li>
-  <li>Sub-reviewing for MSR 2017</li>
+  <li>Program Committee member for: <b>InteNSE 2023</b>, Research Track at <b>SANER 2023</b>, Research Track at <b>SANER 2022</b>, Mining Challenge at <b>MSR 2021</b>.</li>
+  <li>Sub-reviewing for: <b>ASE 2022</b>, <b>ISSTA 2021</b>, <b>SANER 2021</b>, <b>ICSE 2021</b>, Registered Studies at <b>ICSME 2020</b>, <b>ASE 2020</b>, <b>MSR 2020</b>, <b>FSE 2019</b>, <b>ISSTA 2019</b>, <b>ASE 2018</b>, <b>ECOOP 2018</b>, <b>ISSTA 2018</b>, and <b>MSR 2017</b>.</li>
 </ul>
 
 </details>
@@ -119,13 +105,8 @@ My CV can be found [here.](./cv/partachipp_cv.pdf)
 <summary><b style="font-size:1.17em;">Journals</b></summary>
 
 <ul>
-  <li>Reviewing for TOSEM 2022</li>
-  <li>Reviewing for JSS 2022</li>
-  <li>Reviewing for JSS 2021</li>
-  <li>Reviewing for EMSE 2021</li>
-  <li>Reviewing for MTAP 2020</li>
-  <li>Sub-reviewing for EAAI 2020</li>
-  <li>Sub-reviewing for TSE 2017</li>
+  <li>Reviewing for: <b>TOSEM 2022</b>, <b>JSS 2022</b>, <b>JSS 2021</b>, <b>EMSE 2021</b>, and <b>MTAP 2020</b>.</li>
+  <li>Sub-reviewing for: <b>EAAI 2020</b>, and <b>TSE 2017</b></li>
 </ul>
 
 </details>
