@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /publications.html
-post-desc: A potentially out of date publication list (Google Scholar and dblp are your friend). Clicking the title of any publication should lead to an author copy of the publication. If not, feel free to contact me for a copy.
+post-desc: A potentially out-of-date publication list (Google Scholar and dblp are your friends). Clicking the title of any publication should lead to an author copy of the publication. If not, feel free to contact me for a copy.
 ---
 # Publications
 
