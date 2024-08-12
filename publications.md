@@ -5,7 +5,7 @@ post-desc: A potentially out-of-date publication list (Google Scholar and dblp a
 ---
 # Publications
 
-1. Pârțachi, P.-P., & [Sugiyama, M.](https://mahito.info/i), [**Bringing Structure to Naturalness: On the Naturalness of ASTs**](./papers/structnat_extended_abstract.pdf)., In Proceedings of the 2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE ’24): Companion Proceedings. ACM, April 2024. [Bib](./bibs/structnat_abstract.bib); [DOI](https://doi.org/10.1145/3639478.3643517); [PDF](./papers/structnat_extended_abstract.pdf)
+1. Pârțachi, P.-P., & [Sugiyama, M.](https://mahito.info/), [**Bringing Structure to Naturalness: On the Naturalness of ASTs**](./papers/structnat_extended_abstract.pdf)., In Proceedings of the 2024 IEEE/ACM 46th International Conference on Software Engineering (ICSE ’24): Companion Proceedings. ACM, April 2024. [Bib](./bibs/structnat_abstract.bib); [DOI](https://doi.org/10.1145/3639478.3643517); [PDF](./papers/structnat_extended_abstract.pdf)
 
 2. Pârțachi, P.-P., [White, D. R.](https://davidrwhite.co.uk/), & [Barr, E. T.](https://earlbarr.com/), [**Aide-mémoire: Improving a Project’s Collective Memory via Pull Request–Issue Links**](./papers/am_just_accepted.pdf). In ACM Transactions on Software Engineering and Methodology, ACM, May 2022.
  [GitHub Link](https://github.com/PPPI/a-m); [Bib](./bibs/am.bib); [DOI](https://doi.org/10.1145/3542937); [PDF](./papers/am_just_accepted.pdf)
