@@ -68,7 +68,7 @@ My CV can be found [here.](./cv/partachipp_cv.pdf)
 ## Teaching Experience
 
 <details>
-<summary><b style="font-size:1.17em;">TAing during the Doctoral Studies</b></summary>
+<summary><b style="font-size:1.17em;">TAing during the Post-doctoral Research</b></summary>
 
 <ul>
   <li>Data Mining @ SOKENDAI (NII); October 2023 – January 2024
@@ -76,6 +76,13 @@ My CV can be found [here.](./cv/partachipp_cv.pdf)
       <li>Leading the introduction to Graph Neural Networks lecture</li>
     </ul>
   </li>
+</ul>
+</details>
+
+<details>
+<summary><b style="font-size:1.17em;">TAing during the Doctoral Studies</b></summary>
+
+<ul>
   <li>COMPM203 Verification and Validation; January 2020 – July 2020
     <ul>
       <li>Leading problem-based workshops, assisting exam setting, and exam marking</li>
