@@ -125,7 +125,8 @@ My CV can be found [here.](./cv/partachipp_cv.pdf)
 <summary><b style="font-size:1.17em;">Journals</b></summary>
 
 <ul>
-  <li>Reviewing for: <b>TOSEM 2023, 2022</b>, <b>JSS 2022, 2021</b>, <b>EMSE 2021</b>, and <b>MTAP 2020</b>.</li>
+  <li>Editorial Board: <b><a href="https://agepi.gov.md/ro/intellectus">Intellectus</a> 2024–now</b></li>
+  <li>Reviewing for: <b>Intellectus 2024</b>, <b>TOSEM 2023, 2022</b>, <b>JSS 2022, 2021</b>, <b>EMSE 2021</b>, and <b>MTAP 2020</b>.</li>
   <li>Sub-reviewing for: <b>EAAI 2020</b>, and <b>TSE 2017</b></li>
 </ul>
 
