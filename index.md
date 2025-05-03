@@ -18,7 +18,7 @@ layout: default
 ## Contact
 <details open>
 <summary><b style="font-size:1.17em;">Work</b></summary>
-<p>E-mail: profir[at]nii[dot]ac[dot]jp</p>
+<p>E-mail: partachi[at]sa[dot]comp[dot]isct[dot]ac[dot]jp</p>
 </details>
 
 <details open>
