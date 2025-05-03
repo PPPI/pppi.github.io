@@ -5,7 +5,7 @@ layout: default
 
 <details open>
 <summary><b style="font-size:1.17em;">Brief Bio</b></summary>
-<p>Currently a post-doctoral researcher at the <a href="https://mahito.nii.ac.jp/">Sugiyama Lab, National Institute of Informatics</a> with a keen interest in Machine Learning approaches to Software Engineering. My interests lie in structured approaches to modeling source code, program synthesis, understanding defect prediction, and the testing oracle problem. I received my PhD from <a href="http://ucl.ac.uk/">University College London (UCL)</a>, where I worked under the supervision of <a href="http://earlbarr.com/">Prof Earl T. Barr</a> on improving project health by applying Machine Learning to problems from Software Engineering. Some of my projects are listed on this page.</p>
+<p>Currently an Assitent Professor at the <a href="https://www.isct.ac.jp/en">Institute of Science Tokyo</a>, and a member of the <a href="https://www.sa.comp.isct.ac.jp/en/">Software Analytics Research Group</a> with a keen interest in Machine Learning approaches to Software Engineering. My interests lie in structured approaches to modeling source code, program synthesis, understanding defect prediction, and the testing oracle problem. I received my PhD from <a href="http://ucl.ac.uk/">University College London (UCL)</a>, where I worked under the supervision of <a href="http://earlbarr.com/">Prof Earl T. Barr</a> on improving project health by applying Machine Learning to problems from Software Engineering. Some of my projects are listed on this page.</p>
 <p>In a long-forgotten age, I used to take photographs as well, I try to do so today as well. Some of these can be found <a href="https://partachi.com/photos.html">here</a>.</p>
 </details>
 
