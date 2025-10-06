@@ -114,8 +114,8 @@ My CV can be found [here.](./cv/partachipp_cv.pdf)
 <summary><b style="font-size:1.17em;">Conferences</b></summary>
 
 <ul>
-  <li>Program Committee member for: Research and Experience at <b>CAIN 2025, 2024</b>, Research Track at <b>ICSE 2026</b>, <b>FSE 2025</b>, Artefact Evaluation at <b>ICSE 2024</b>, <b>InteNSE 2023</b>, Research Track at <b>SANER 2023, 2022</b> Mining Challenge at <b>MSR 2021</b>.</li>
-  <li>Reviewing for: <b>NeurIPS 2025, ICLR 2025, AAAI 2025, ICLR 2024, ICML 2024, NeurIPS 2023</b></li>
+  <li>Program Committee member for: Research and Experience at <b>CAIN 2026, 2025, 2024</b>, Research Track at <b>ICSE 2026</b>, <b>FSE 2025</b>, Artefact Evaluation at <b>ICSE 2024</b>, <b>InteNSE 2023</b>, Research Track at <b>SANER 2023, 2022</b> Mining Challenge at <b>MSR 2021</b>, Registered Reports at <b>MSR 2026</b>.</li>
+  <li>Reviewing for: <b>NeurIPS: 2025, 2023; ICLR: 2026, 2025, 2024; AAAI: 2026, 2025; ICML: 2024</b></li>
   <li>Sub-reviewing for: <b>ASE 2022</b>, <b>ISSTA 2021</b>, <b>SANER 2021</b>, <b>ICSE 2021</b>, Registered Studies at <b>ICSME 2020</b>, <b>ASE 2020</b>, <b>MSR 2020</b>, <b>FSE 2019</b>, <b>ISSTA 2019</b>, <b>ASE 2018</b>, <b>ECOOP 2018</b>, <b>ISSTA 2018</b>, and <b>MSR 2017</b>.</li>
 </ul>
 
@@ -126,7 +126,7 @@ My CV can be found [here.](./cv/partachipp_cv.pdf)
 
 <ul>
   <li>Editorial Board: <b><a href="https://agepi.gov.md/ro/intellectus">Intellectus</a> 2024–now</b></li>
-  <li>Reviewing for: <b>Intellectus 2024</b>, <b>TOSEM 2023, 2022</b>, <b>JSS 2022, 2021</b>, <b>EMSE 2021</b>, and <b>MTAP 2020</b>.</li>
+  <li>Reviewing for: <b> TSE 2024</b>, <b>Intellectus 2024</b>, <b>TOSEM 2023, 2022</b>, <b>JSS 2022, 2021</b>, <b>EMSE 2021</b>, and <b>MTAP 2020</b>.</li>
   <li>Sub-reviewing for: <b>EAAI 2020</b>, and <b>TSE 2017</b></li>
 </ul>
 
