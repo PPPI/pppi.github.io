@@ -43,29 +43,19 @@ My CV can be found [here.](./cv/partachipp_cv.pdf)
   - BA Thesis: [**Deck building in Hearthstone Using a Genetic Algorithm.**](./papers/Dissertation_ppp23.pdf)
   - Supervised by [Dr Sean Holden](https://www.cl.cam.ac.uk/~sbh11/)
 
-## Projects
-
-<details open>
-<summary><b style="font-size:1.17em;">Doctoral Work</b></summary>
-
-<ol>
-  <li> Aide-memoire: A tool to link issues and pull-requests in an online fashion by predicting which issues (PRs) relate to other PRs (issues). It makes use of a Mondrian Forest model that should be trained on a project before it can make predictions. It is composed of a backend (<a href="https://github.com/PPPI/a-m">GitHub Link</a>) and a Chrome plug-in to interface with the backend (<a href="https://github.com/PPPI/am-chrome">GitHub Link</a>)</li>
-  <li> POSIT: A tool that makes use of a CRF-biLSTM model to segment and tag text that mixes English and code snippets. It was trained on a combination of C code and StackOverflow. <a href="https://www.partachi.com/POSIT">Project Page</a></li>
-  <li> Flexeme: A tool that untangles commits into atomic patches using graph kernel similarity and agglomerative clustering. It was validated on an artificial corpus of tangled commits for 9 C# projects. <a href="https://www.partachi.com/Flexeme">Project Page</a></li>
-</ol>
-
-</details>
-<br>
-<details>
-<summary><b style="font-size:1.17em;">Internship Projects</b></summary>
-
-<ol>
-  <li> Graph-kernel-based detection of anomalous events in spatiotemporal data: anomalies are those points that stay closely together for abnormal lengths of time or disperse suddenly. This work was done as part of an internship at the National Institute of Informatics in Tokyo, JP, under the careful supervision of <a href="https://mahito.info/index_e.html">Asoc. Prof. Mahito Sugiyama</a>.</li>
-</ol>
-</details>
-<br>
-
 ## Teaching Experience
+
+<details>
+<summary><b style="font-size:1.17em;">Teaching during the Assistant Professorship at ISCT</b></summary>
+
+<ul>
+  <li><a href="https://syllabus.s.isct.ac.jp/courses/2025/4/0-904-342300-0-0/202502431?hl=en">CSC.T273</a> Object-Oriented Programming; October 2025 – Decembre 2025/Q3
+    <ul>
+      <li>Assisted and Lead the Problem Based Learning Laboratories</li>
+    </ul>
+  </li>
+</ul>
+</details>
 
 <details>
 <summary><b style="font-size:1.17em;">TAing during the Post-doctoral Research</b></summary>
